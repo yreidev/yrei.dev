@@ -34,7 +34,7 @@
     <link rel="canonical" href="https://yrei.dev/" />
     <link rel="icon" href="assets/yrei-mark.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
-    <link rel="preload" href="assets/avatar.jpg" as="image" type="image/jpeg" />
+    <link rel="preload" href="assets/avatar.webp" as="image" type="image/webp" />
     <link rel="stylesheet" href="styles.css" />
     <title>Yrei - Independent developer</title>
     <script type="application/ld+json">
@@ -114,13 +114,15 @@
 
         <figure class="portrait" aria-label="Portrait of Yrei">
           <div class="portrait-index" aria-hidden="true">霊</div>
-          <img
-            src="assets/avatar.jpg"
-            width="460"
-            height="460"
-            alt="Yrei's illustrated profile portrait"
-            fetchpriority="high"
-          />
+          <div class="portrait-frame">
+            <img
+              src="assets/avatar.webp"
+              width="1024"
+              height="1024"
+              alt="Yrei's illustrated profile portrait"
+              fetchpriority="high"
+            />
+          </div>
           <figcaption>
             <span data-en="Digital identity" data-zh="数字身份">Digital identity</span>
             <span>2019—2026</span>
