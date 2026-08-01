@@ -1,0 +1,23 @@
+{
+  "name": "Yrei",
+  "short_name": "Yrei",
+  "description": "Independent developer building self-hosted systems, mobile tools, and a more personal web.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101311",
+  "theme_color": "#101311",
+  "icons": [
+    {
+      "src": "/assets/yrei-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

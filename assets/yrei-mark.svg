@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Yrei mark</title>
+  <rect width="64" height="64" fill="#c8ff4d"/>
+  <path d="M13 13 32 32 51 13M32 32v20" fill="none" stroke="#101311" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M8 32h8M48 32h8M32 8v8" fill="none" stroke="#ff6b53" stroke-width="3"/>
+  <rect x="28" y="28" width="8" height="8" fill="#101311"/>
+</svg>
